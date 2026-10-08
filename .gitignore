@@ -1,0 +1,10 @@
+# Local editor and OS files
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Never commit tokens or local answers
+*.token
+.env
+.ox.local
